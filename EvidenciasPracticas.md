@@ -18,6 +18,11 @@ Install-WindowsFeature -name Web-Server -IncludeManagementTools
 
 # 02 - Create a Web App
 
+![01d-00](Evidencia/02a-00.png)
+
+![01e-00](Evidencia/02b-00.png)
+
+![01e-00](Evidencia/02c-00.png)
 
 
 # 03 - Deploy Azure Container Instances
@@ -90,19 +95,18 @@ Fin de la practica borrando el recurso
 
 ![07a-00](Evidencia/07c-00.png)
 
+![07a-00](Evidencia/07d-00.png)
 
 
 # 08 - Implement Azure Functions
 
-
+![08a-00](Evidencia/08a-00.png)
 
 # 09 - Create a VM with a Template
 
 
 
 # 10 - Create a VM with PowerShell
-
-
 
 
 
@@ -116,13 +120,15 @@ Fin de la practica borrando el recurso
 
 # 11 - Create a VM with the CLI
 
-![10a-00](Evidencia/10a-00.png)
+![10a-00](Evidencia/11a-00.png)
 
-![10b-00](Evidencia/10b-00.png)
+![10b-00](Evidencia/11b-00.png)
 
-![10c-00](Evidencia/10c-00.png)
+![10c-00](Evidencia/11c-00.png)
 
-![10d-00](Evidencia/10d-00.png)
+![10d-00](Evidencia/11d-00.png)
+
+![10d-00](Evidencia/11e-00.png)
 
 # 12 - Implement Azure Key Vault
 
@@ -136,19 +142,25 @@ Fin de la practica borrando el recurso
 
 ![13a-00](Evidencia/13d-00.png)
 
+![13a-00](Evidencia/13f-00.png)
+
+![13a-00](Evidencia/13g-00.png)
+
 # 14 - Manage access with RBAC
 
-![14b-00](Evidencia/14a-00.png)
+![14b-00](Evidencia/14a.png)
 
-![14a-00](Evidencia/14b-00.png)
+![14a-00](Evidencia/14b.png)
+
+![14a-00](Evidencia/14c.png)
 
 # 15 - Manage resource locks
 
-![15b-00](Evidencia/15a-00.png)
+![15b-00](Evidencia/15a.png)
 
-![15c-00](Evidencia/15b-00.png)
+![15c-00](Evidencia/15b.png)
 
-![15a-00](Evidencia/15c-00.png)
+![15a-00](Evidencia/15c.png)
 
 # 16 - Implement resource tagging
 
@@ -156,19 +168,7 @@ Fin de la practica borrando el recurso
 
 ![16d-00](Evidencia/16b-00.png)
 
-![16f-00](Evidencia/16c-00.png)
 
-![16g-00](Evidencia/16d-00.png)
-
-![16h-00](Evidencia/16f-00.png)
-
-![16i-00](Evidencia/16g-00.png)
-
-![16a-00](Evidencia/16h-00.png)
-
-![16b-00](Evidencia/16i-00.png)
-
-![16j-00](Evidencia/16j-00.png)
 
 # 17 - Create an Azure Policy
 
@@ -182,17 +182,26 @@ Fin de la practica borrando el recurso
 
 ![17b-00](Evidencia/17e-00.png)
 
-![17c-00](Evidencia/17f-00.png)
 
-![17d-00](Evidencia/17g-00.png)
-
-![17e-00](Evidencia/17h-00.png)
 
 # 18 - Explore the Trust Center
 
+![17f-00](Evidencia/18a.png)
+
+![17g-00](Evidencia/18b.png)
+
+![17h-00](Evidencia/18c.png)
+
 # 19 - Use the Pricing Calculator
 
+![17f-00](Evidencia/19a.png)
+
+![17g-00](Evidencia/19b.png)
+
 # 20 - Use the Azure TCO Calculator
+![17f-00](Evidencia/20a.png)
+
+![17g-00](Evidencia/20b.png)
 
 # 21 - Calculate Composite SLAs
 
