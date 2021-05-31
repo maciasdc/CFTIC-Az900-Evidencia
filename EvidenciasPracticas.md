@@ -87,6 +87,8 @@ Fin de la practica borrando el recurso
 
 ![06e-00](Evidencia/06e-00.png)
 
+![06e-00](Evidencia/06f-00.png)
+
 # 07 - Implement an Azure IoT Hub
 
 ![07b-00](Evidencia/07a-00.png)
@@ -101,13 +103,17 @@ Fin de la practica borrando el recurso
 # 08 - Implement Azure Functions
 
 ![08a-00](Evidencia/08a-00.png)
+![08a-00](Evidencia/08b-00.png)
+![08a-00](Evidencia/08c-00.png)
+![08a-00](Evidencia/08d-00.png)
 
 # 09 - Create a VM with a Template
-
-
+![08a-00](Evidencia/09a-00.png)
+![08a-00](Evidencia/09b-00.png)
+![08a-00](Evidencia/09c-00.png)
+![08a-00](Evidencia/09d-00.png)
 
 # 10 - Create a VM with PowerShell
-
 
 
 ![10b-00](Evidencia/10a-00.png)
@@ -131,6 +137,10 @@ Fin de la practica borrando el recurso
 ![10d-00](Evidencia/11e-00.png)
 
 # 12 - Implement Azure Key Vault
+
+![12b-00](Evidencia/12a-00.png)
+![12b-00](Evidencia/12b-00.png)
+![12b-00](Evidencia/12c-00.png)
 
 # 13 - Secure network traffic
 
@@ -205,4 +215,20 @@ Fin de la practica borrando el recurso
 
 # 21 - Calculate Composite SLAs
 
+![17f-00](Evidencia/21a.png)
+
+![17g-00](Evidencia/21b.png)
+
+![17g-00](Evidencia/21c.png)
+
+![17g-00](Evidencia/21d.png)
+
+![17g-00](Evidencia/21e.png)
+
 # 22 - Open a Support Request
+
+![17f-00](Evidencia/22a.png)
+
+![17g-00](Evidencia/22b.png)
+
+![17g-00](Evidencia/22c.png)
